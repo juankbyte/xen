@@ -1,0 +1,140 @@
+:root {
+	--z-index-value:1000
+}
+
+
+/* Page: si el contenido es pequeño el footer estesiempre debajo  */
+
+body{
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+/* main {} */
+
+footer{
+	margin-top: auto;
+}
+
+/* Modals */
+
+xen-modal-header {
+	all:unset;
+}
+
+xen-modal-body {
+	all:unset;
+}
+
+xen-modal-footer {	
+	all:unset;
+}
+
+/* Table  */
+
+.xen-table td, .xen-table th {
+	align-content: center;
+}
+
+/* Grid  */
+
+xen-grid {
+
+}
+
+xen-grid-item {
+	
+}
+
+::-webkit-scrollbar {
+	width: 8px;
+	height: 8px;
+	padding: 10px;
+	transition: transform 0.3s;
+}
+
+::-webkit-scrollbar:hover {
+	transform: scale(1.1);
+	width: 10px;
+}
+
+::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px grey; 
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+	background:rgba(81, 35, 12, 0.4); 
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background:rgba(52, 22, 7, 0.4); 
+}
+
+/* Forma de impresion  */
+
+@media print{
+
+	.oculto-impresion, .oculto-impresion *{
+			display: none !important;
+	}
+	
+	.nav-logo{
+			max-height: 50pt !important;
+			max-width: 90pt !important;
+	}
+
+	.vista__print {
+			margin-block: 1.5rem !important;
+			display: block !important; /* Muestra solo el contenido relevante */
+			height: auto !important; /* Ajusta automáticamente la altura */
+	}
+
+	.container{
+			max-width: 100% !important;
+			padding-right: 80pt !important;
+			padding-left: 100pt !important;
+			margin-top: 50pt !important;
+			margin-bottom: 50pt !important;
+	}
+
+	.no-print, .xen_view_header {
+			display: none !important; 
+	}
+
+	* {
+		overflow: visible !important; /* Asegura que todo el contenido sea visible */
+	}
+
+	.proveedor{
+		page-break-inside: avoid !important; /*  toma al proopvedor y busca que no se rompa en la impresion*/
+	}
+
+	@page {
+		margin: 5mm !important;  /* Ajusta el margen que deseas en milímetros o puntos */
+	}
+	
+	h1{
+		font-size: 15pt !important;
+	}
+
+	p{
+		font-size: 12pt !important;
+	}
+
+	th{
+		font-size: 10pt !important;
+	}
+
+	.imagenes{
+		max-height: 30pt !important;
+		max-width: 70pt !important;
+	}
+
+	table{
+		margin: 0 !important;
+	}
+
+}
