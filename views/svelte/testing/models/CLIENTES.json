@@ -1,0 +1,147 @@
+[
+    {
+        "cliente": "Transporte Andino SRL",
+        "razon_social": "Transporte Andino SRL",
+        "contacto": "Carlos Pereyra",
+        "direccion": "Av. Belgrano 2345",
+        "localidad": "Córdoba",
+        "cp": "5000",
+        "provincia": "Córdoba",
+        "cuit": "30-71234567-5",
+        "i_b": "901-234567-8",
+        "telefono": "+54 351 458 6721",
+        "mail": "contacto@transporteandino.com.ar",
+        "ventas": "María López",
+        "condicion_iva": 1,
+        "fecha_alta": 1719763200000,
+        "condicion_tributaria": "Responsable Inscripto",
+        "mail_administracion": "administracion@transporteandino.com.ar",
+        "mail_cobranzas": "cobranzas@transporteandino.com.ar",
+        "condiciones_pago": [
+        {
+            "codigo": "30D_NET",
+            "descripcion": "Pago a 30 días por transferencia bancaria"
+        }
+        ],
+        "bonificacion": {
+        "tipo": "porcentaje",
+        "valor": 5
+        }
+    },
+    {
+        "cliente": "Constructora del Sur SA",
+        "razon_social": "Constructora del Sur Sociedad Anónima",
+        "contacto": "Laura Giménez",
+        "direccion": "Ruta 3 Km 15, Parque Industrial",
+        "localidad": "Bahía Blanca",
+        "cp": "8000",
+        "provincia": "Buenos Aires",
+        "cuit": "30-92345678-9",
+        "i_b": "902-567890-1",
+        "telefono": "+54 291 452 1110",
+        "mail": "info@constructorasur.com",
+        "ventas": "Juan Pérez",
+        "condicion_iva": 1,
+        "fecha_alta": 1722384000000,
+        "condicion_tributaria": "Responsable Inscripto",
+        "mail_administracion": "adm@constructorasur.com",
+        "mail_cobranzas": "cobranzas@constructorasur.com",
+        "condiciones_pago": [
+        {
+            "codigo": "ANTICIPO_50",
+            "descripcion": "50% al inicio y 50% a la entrega del servicio"
+        }
+        ],
+        "bonificacion": {
+        "tipo": "monto",
+        "valor": 10000
+        }
+    },
+    {
+        "cliente": "AgroMaq SRL",
+        "razon_social": "AgroMaq SRL",
+        "contacto": "Federico Lamas",
+        "direccion": "Av. Mitre 1589",
+        "localidad": "Rosario",
+        "cp": "2000",
+        "provincia": "Santa Fe",
+        "cuit": "30-83456789-2",
+        "i_b": "903-345678-9",
+        "telefono": "+54 341 456 2299",
+        "mail": "ventas@agromaq.com",
+        "ventas": "Lucía Castro",
+        "condicion_iva": 2,
+        "fecha_alta": 1724976000000,
+        "condicion_tributaria": "Monotributo",
+        "mail_administracion": "administracion@agromaq.com",
+        "mail_cobranzas": "cobranzas@agromaq.com",
+        "condiciones_pago": [
+        {
+            "codigo": "CONTADO",
+            "descripcion": "Pago al contado al finalizar la operación"
+        }
+        ],
+        "bonificacion": {
+        "tipo": "porcentaje",
+        "valor": 10
+        }
+    },
+    {
+        "cliente": "Minería Patagónica SA",
+        "razon_social": "Minería Patagónica Sociedad Anónima",
+        "contacto": "Sofía Barrios",
+        "direccion": "Av. San Martín 480",
+        "localidad": "Comodoro Rivadavia",
+        "cp": "9000",
+        "provincia": "Chubut",
+        "cuit": "30-64567890-1",
+        "i_b": "904-234567-3",
+        "telefono": "+54 297 447 8899",
+        "mail": "info@mineriapatagonica.com.ar",
+        "ventas": "Ezequiel Vega",
+        "condicion_iva": 1,
+        "fecha_alta": 1727568000000,
+        "condicion_tributaria": "Responsable Inscripto",
+        "mail_administracion": "adm@mineriapatagonica.com.ar",
+        "mail_cobranzas": "cobranzas@mineriapatagonica.com.ar",
+        "condiciones_pago": [
+        {
+            "codigo": "60D_NET",
+            "descripcion": "Pago a 60 días por transferencia bancaria"
+        }
+        ],
+        "bonificacion": {
+        "tipo": "ninguna",
+        "valor": 0
+        }
+    },
+    {
+        "cliente": "Distribuidora del Norte",
+        "razon_social": "Distribuidora del Norte SRL",
+        "contacto": "Martín Benítez",
+        "direccion": "Av. Illia 789",
+        "localidad": "San Miguel de Tucumán",
+        "cp": "4000",
+        "provincia": "Tucumán",
+        "cuit": "30-75678901-4",
+        "i_b": "905-678901-2",
+        "telefono": "+54 381 422 6677",
+        "mail": "contacto@distribuidoradelnorte.com",
+        "ventas": "Valeria Acuña",
+        "condicion_iva": 1,
+        "fecha_alta": 1730150400000,
+        "condicion_tributaria": "Responsable Inscripto",
+        "mail_administracion": "administracion@distribuidoradelnorte.com",
+        "mail_cobranzas": "cobranzas@distribuidoradelnorte.com",
+        "condiciones_pago": [
+        {
+            "codigo": "CUOTAS_3",
+            "descripcion": "Pago en 3 cuotas mensuales sin interés"
+        }
+        ],
+        "bonificacion": {
+        "tipo": "porcentaje",
+        "valor": 3
+        }
+    }
+]

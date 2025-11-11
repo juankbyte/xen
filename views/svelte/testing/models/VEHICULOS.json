@@ -1,0 +1,48 @@
+    [
+        {
+        "dominio": "AB123CD",
+        "marca": "Mercedes-Benz",
+        "modelo": "Atego 1726",
+        "anio": 2019,
+        "tipo": 1,
+        "chasis": 9876543210,
+        "motor": 1234567890,
+        "unidadCarga": 1,
+        "capacidadCarga": 12000,
+        "estado": 1,
+        "fecha_vto_tecnica": 1719878400000,
+        "kilometraje": 185000,
+        "habilitado": true
+        },
+        {
+        "dominio": "AC456EF",
+        "marca": "Scania",
+        "modelo": "P410",
+        "anio": 2021,
+        "tipo": 2,
+        "chasis": 1239874560,
+        "motor": 4561237890,
+        "unidadCarga": 2,
+        "capacidadCarga": 30000,
+        "estado": 1,
+        "fecha_vto_tecnica": 1735689600000,
+        "kilometraje": 95000,
+        "habilitado": true
+        },
+        {
+        "dominio": "AD789GH",
+        "marca": "Volvo",
+        "modelo": "FH 460",
+        "anio": 2018,
+        "tipo": 2,
+        "chasis": 1472583690,
+        "motor": 9638527410,
+        "unidadCarga": 3,
+        "capacidadCarga": 32000,
+        "estado": 2,
+        "fecha_vto_tecnica": 1722470400000,
+        "kilometraje": 310000,
+        "habilitado": true
+        }
+    ]
+    

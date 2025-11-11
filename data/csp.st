@@ -1,0 +1,10 @@
+[
+  "https://cdn.jsdelivr.net/gh/Fundasoft/cdns@1.0.1/fonts/bootstrap-icons.woff",
+  "https://cdn.jsdelivr.net/gh/Fundasoft/cdns@1.0.1/fonts/bootstrap-icons.woff2",
+  "https://cdn.jsdelivr.net/gh/Fundasoft/cdns@1.0.1/animate.min.css",
+  "https://cdn.jsdelivr.net/gh/Fundasoft/cdns@1.0.1/bootstrap-icons.min.css",
+  "https://cdn.jsdelivr.net/gh/Fundasoft/cdns@1.0.1/bootstrap.min.css",
+  "https://cdn.jsdelivr.net/gh/Fundasoft/cdns@1.0.1/alertify.min.css",
+  "https://cdn.jsdelivr.net/gh/Fundasoft/cdns@1.0.1/bootstrap.bundle.min.js",
+  "https://cdn.jsdelivr.net/gh/Fundasoft/cdns@1.0.1/alertify.min.js"
+]

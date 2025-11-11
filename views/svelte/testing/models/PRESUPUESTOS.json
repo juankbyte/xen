@@ -1,0 +1,122 @@
+[
+    {
+        "nombre": "Carlos",
+        "apellido": "Fernández",
+        "empresa": "Constructora Andina S.A.",
+        "cargo": "Jefe de Obra",
+        "mail": "cfernandez@andina.com",
+        "telefono": "+54 9 11 2345-8765",
+        "mensaje": "Necesitamos cotización por alquiler de excavadora y camiones volcadores para movimiento de suelo en obra vial en Neuquén.",
+        "fecha": 1725577200000,
+        "comprobante": 1012,
+        "Y": 1
+    },
+    {
+        "nombre": "Lucía",
+        "apellido": "Martínez",
+        "empresa": "Minera El Cóndor",
+        "cargo": "Supervisora de Producción",
+        "mail": "lmartinez@minera-condor.com",
+        "telefono": "+54 9 387 453-9211",
+        "mensaje": "Solicito presupuesto por alquiler de pala cargadora y retroexcavadora por 30 días en yacimiento de Salta.",
+        "fecha": 1726095600000,
+        "comprobante": 1013,
+        "Y": 2
+    },
+    {
+        "nombre": "Diego",
+        "apellido": "Sosa",
+        "empresa": "Hormigones del Sur",
+        "cargo": "Encargado de Logística",
+        "mail": "dsosa@hormigonesdelsur.com",
+        "telefono": "+54 9 221 601-2344",
+        "mensaje": "Consulta por alquiler de grúa hidráulica 25 tn para izaje de moldes de hormigón.",
+        "fecha": 1726531200000,
+        "comprobante": 1014,
+        "Y": 3
+    },
+    {
+        "nombre": "María",
+        "apellido": "Gutiérrez",
+        "empresa": "Vial Patagonia",
+        "cargo": "Administración Técnica",
+        "mail": "mgutierrez@vialpatagonia.com",
+        "telefono": "+54 9 294 555-8701",
+        "mensaje": "Requerimos cotización por topadora y compactador para trabajo de terraplén en ruta provincial.",
+        "fecha": 1727053200000,
+        "comprobante": 1015,
+        "Y": 4
+    },
+    {
+        "nombre": "Jorge",
+        "apellido": "Ramírez",
+        "empresa": "Transportes del Norte",
+        "cargo": "Gerente de Operaciones",
+        "mail": "jramirez@tdn.com.ar",
+        "telefono": "+54 9 381 497-3020",
+        "mensaje": "Consulta por alquiler mensual de camión cisterna y cargadora frontal para planta de áridos.",
+        "fecha": 1727485200000,
+        "comprobante": 1016,
+        "Y": 5
+    },
+    {
+        "nombre": "Paula",
+        "apellido": "Rey",
+        "empresa": "PetroAndes",
+        "cargo": "Coordinadora de Proyectos",
+        "mail": "prey@petroandes.com",
+        "telefono": "+54 9 297 455-8000",
+        "mensaje": "Necesitamos presupuesto para equipos de izaje en pozo petrolero: grúa 30 tn y camión pluma.",
+        "fecha": 1728090000000,
+        "comprobante": 1017,
+        "Y": 6
+    },
+    {
+        "nombre": "Santiago",
+        "apellido": "Benítez",
+        "empresa": "Obras Civiles del Litoral",
+        "cargo": "Capataz General",
+        "mail": "sbenitez@oclitoral.com",
+        "telefono": "+54 9 341 599-4377",
+        "mensaje": "Presupuesto por retroexcavadora y motoniveladora para movimiento de suelo en acceso rural.",
+        "fecha": 1728612000000,
+        "comprobante": 1018,
+        "Y": 7
+    },
+    {
+        "nombre": "Valeria",
+        "apellido": "Mendoza",
+        "empresa": "Metales del Sur",
+        "cargo": "Ingeniera de Planta",
+        "mail": "vmendoza@metalesdelsur.com",
+        "telefono": "+54 9 261 612-3490",
+        "mensaje": "Consulta por renta de manipulador telescópico y generador eléctrico para faena minera.",
+        "fecha": 1729044000000,
+        "comprobante": 1019,
+        "Y": 8
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Navarro",
+        "empresa": "Altiplano S.R.L.",
+        "cargo": "Supervisor de Campo",
+        "mail": "rnavarro@altiplano.com.ar",
+        "telefono": "+54 9 385 462-8810",
+        "mensaje": "Solicitamos cotización por camión volcador y excavadora para trabajos de drenaje.",
+        "fecha": 1729652400000,
+        "comprobante": 1020,
+        "Y": 9
+    },
+    {
+        "nombre": "Florencia",
+        "apellido": "Pérez",
+        "empresa": "Minerales del Valle",
+        "cargo": "Asistente Técnica",
+        "mail": "fperez@mineralesvalle.com",
+        "telefono": "+54 9 261 421-5533",
+        "mensaje": "Presupuesto por alquiler de grúa torre y generador para montaje de estructura metálica en Mendoza.",
+        "fecha": 1730055600000,
+        "comprobante": 1021,
+        "Y": 10
+    }
+]

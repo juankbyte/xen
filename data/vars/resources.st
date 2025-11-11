@@ -1,0 +1,1 @@
+[{"icon":"hdd","title":"drive","description":"Recursos compartidos","link":""},{"icon":"whatsapp","title":"whatsapp","description":"Grupo compartido","link":""},{"icon":"graph-up-arrow","title":"Analitycs","description":"Estadisticas externas","link":""}]
