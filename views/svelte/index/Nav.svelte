@@ -1,4 +1,5 @@
 <script>
+    //Esta funcion es la que encontre que cierra el navbar cuando esta collapsado, porque si al navbar de bootstrap lo usas para redirigir dentro de la misma pagina no cierra.
     setTimeout(() => {
         const navbar = document.getElementById("navbarScroll");
         if (!navbar) return;
