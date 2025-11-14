@@ -6,5 +6,7 @@
   "https://cdn.jsdelivr.net/gh/Fundasoft/cdns@1.0.1/bootstrap.min.css",
   "https://cdn.jsdelivr.net/gh/Fundasoft/cdns@1.0.1/alertify.min.css",
   "https://cdn.jsdelivr.net/gh/Fundasoft/cdns@1.0.1/bootstrap.bundle.min.js",
-  "https://cdn.jsdelivr.net/gh/Fundasoft/cdns@1.0.1/alertify.min.js"
+  "https://cdn.jsdelivr.net/gh/Fundasoft/cdns@1.0.1/alertify.min.js",
+  "https://cdn.jsdelivr.net/npm/chart.js",
+  "https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js"
 ]

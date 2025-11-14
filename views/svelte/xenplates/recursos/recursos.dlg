@@ -1,0 +1,10 @@
+{
+  "name":"Recursos",
+  "description":"Recursos generales comunes- spinner wp",
+  "author":"xen",
+  "type":"code",
+  "import":[
+    "xenplate",
+    "views/svelte/xenplates/recursos/*"
+  ]
+}

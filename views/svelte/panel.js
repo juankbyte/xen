@@ -3,7 +3,7 @@
 // import local
 // --------------------------------------------------------------
 
-// import Home from './panel/Home.svelte';
+import Home from './panel/Home.svelte';
 import './panel/style.css';
 
 
@@ -22,7 +22,7 @@ setting({
 // --------------------------------------------------------------
 
 // elias: copiar el componente de accesos directorio
-//menu('Home',view(Home),{icon:"house",color:'#b7e0cc',shortcut,header:false});
+menu('Home',view(Home),{icon:"house",color:'#b7e0cc',shortcut,header:false});
 
 // elias: Seccion IT menu de equipo IT 
 // DATOS VIENEN de una variable: xenit = {
